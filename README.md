@@ -24,10 +24,10 @@
 - 👨‍💻 I'm a passionate developer from **India**.
 - 🌐 Interested in building modern, responsive, and user-friendly web applications.
 - 💻 Currently exploring **Full Stack Development**.
-- 🔐 Interested in **Cybersecurity and Ethical Hacking**.
+- 🔐 Interested in **Cybersecurity and Risk Management**.
 - 📚 Continuously learning new technologies and improving my problem-solving skills.
 - 🎯 Goal: Become a skilled Software Developer and Cybersecurity Professional.
-- ⚡ Fun fact: I love turning ideas into real-world projects!
+
 
 ---
 
@@ -55,9 +55,24 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,linux" />
 </p>
 
-### 📊 Other Technologies
+  
+### 🔐 Cybersecurity & Networking Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+</p>
+
+
+<p align="center">
+  <a href="YOUR_VERCEL_URL">
+    <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
 </p>
 
 ---
