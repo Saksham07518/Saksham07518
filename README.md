@@ -81,15 +81,16 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🎓 Student Attendance & Fee Management System | Manage student records, attendance, and fee payments. | React, JavaScript, Database |
-| 🗳️ Student Council Election Portal | Digital voting platform with authentication and one-vote logic. | React, Supabase, PostgreSQL |
-| 🌐 Web Development Projects | Responsive websites and interactive web interfaces. | HTML, CSS, JavaScript |
+| Project | Description | Technologies | Status |
+|---|---|---|---|
+| 🎓 [Student Council Election Portal](https://unicouncil.vercel.app/login) | Digital voting platform with authentication and one-vote-per-user functionality. | React, Supabase, PostgreSQL | 🔴 Currently Offline |
+| 📝 [YouNotes – Notes App](https://notes-tau-bice.vercel.app/login) | A web-based application to create, manage, and organize personal notes. | React, JavaScript, Firebase | 🟢 Deployed |
+| 🎬 [CineVault](https://cinevault-indol.vercel.app/) | A movie discovery platform for exploring movies and discovering entertainment content. | React, JavaScript, API | 🟢 Deployed |
+| 💻 [Surface IQ](https://surface-iq.vercel.app/) | An interactive web project focused on delivering a modern user experience. | React, JavaScript, Tailwind CSS | 🟢 Deployed |
+| 🎓 [Student Attendance & Fee Management System](https://manageall-9750a.web.app/) | A management system for maintaining student records, tracking attendance, and managing fee payments. | React, JavaScript, Firebase | 🟡 Work in Progress |
 
 > Explore my repositories for more projects and experiments!
 
----
 
 <!-- ========== GITHUB STATS ========== -->
 
