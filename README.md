@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Mishra</h1>
 
 <h3 align="center">
-  Software Developer | Aspiring Cybersecurity Professional
+  Software Developer | Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
